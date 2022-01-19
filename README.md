@@ -9,41 +9,53 @@ Currently pursuing Executive Post Graduate Diploma in Data Science from IIIT - B
 ---
 
 ## Skills
-Skilled in SQL, Advance Excel, MS Visio, Redash, Google Big Query, R-Markdown, Python, AWS Services (S3, Quicksight, Redshift), Tableau, Power BI, GitHub, Adobe Analytics, ETL. 
+Skilled in 
+- SQL
+- Advance Excel
+- MS Visio
+- Redash
+- Google Big Query
+- R-Markdown
+- Python
+- AWS Services (S3, Quicksight, Redshift)
+- Tableau
+- Power BI
+- GitHub
+- Adobe Analytics. 
 
 ## Experience
 
 ### **Senior Analyst (Web, Data, Business)**
 ### Dell Technologies
 
-• Evaluating business (web, adobe, campaigns, personalization) data to produce meaningful insights and metrics, identifying trends that improve business performance.
-• Developing and implemented performance improvement strategies and plans to promote continuous improvement.
-• Participating in continuous improvement by generating suggestions, engaging in problem-solving activities to support teamwork.
-• Designing, developing and implementing business intelligence dashboards and reports to facilitate data review and analysis.
-• Deep diving and correlating data, formulating conclusions and providing summary overviews to business leadership.
-• Interacting with customers to set expectations regarding report availability and SLAs.
+- Evaluating business (web, adobe, campaigns, personalization) data to produce meaningful insights and metrics, identifying trends that improve business performance.
+- Developing and implemented performance improvement strategies and plans to promote continuous improvement.
+- Participating in continuous improvement by generating suggestions, engaging in problem-solving activities to support teamwork.
+- Designing, developing and implementing business intelligence dashboards and reports to facilitate data review and analysis.
+- Deep diving and correlating data, formulating conclusions and providing summary overviews to business leadership.
+- Interacting with customers to set expectations regarding report availability and SLAs.
 
 ### **Manager - Data Science and Analytics**
 ### Emeritus 
 
--Looking into Finance Analytics across geographies.
--Designing, building and deploying BI solutions that focus on automation, scale, and data security.
--Developing and executing database queries and conduct analyses.
--Creating visualizations and reports with the goal of reproducibility.
--Collaborating with internal stakeholders to translate business needs to technical specifications.
--Maintaining and supporting data analytics platforms.
--Forecasting, metric definition, ongoing performance measurement, ROI analysis, and capacity planning.
+- Looking into Finance Analytics across geographies.
+- Designing, building and deploying BI solutions that focus on automation, scale, and data security.
+- Developing and executing database queries and conduct analyses.
+- Creating visualizations and reports with the goal of reproducibility.
+- Collaborating with internal stakeholders to translate business needs to technical specifications.
+- Maintaining and supporting data analytics platforms.
+- Forecasting, metric definition, ongoing performance measurement, ROI analysis, and capacity planning.
 
 ### **Business Analyst**
 ### Amazon
 
 A part of Last Mile, Transportation, Pantry Analytics.
-• Worked on setting up the analytics base and reporting structure for Amazon Pantry, Invalid Scans, Scan Compliance Program etc. for India Marketplace.
-• Interfaced across business teams (Sales, Marketing, Vendor Management, Product/Program Management, Ground Operations) to evaluate trends and insights through dive deep, that 
+- Worked on setting up the analytics base and reporting structure for Amazon Pantry, Invalid Scans, Scan Compliance Program etc. for India Marketplace.
+- Interfaced across business teams (Sales, Marketing, Vendor Management, Product/Program Management, Ground Operations) to evaluate trends and insights through dive deep, that 
 aided data decision making using MS Excel, SQL, AWS services and other data manipulation languages and tools. 
-• Created multiple custom dashboards and automating different set of reports using R Markdown, HTML, Advance Excel, VBA, Metrics Job (ETL).
-• Improved processes through creation of Page 0 scorecard and Performance dashboards using virtual tables and visualizations tools using R Markdown, HTML, Advance Excel, VBA, Metrics Job (ETL), Tableau, Quick sight etc.
-• Developed and established processes for WBRs, MBRs, QBRs by working closely with Business, through automating techniques, setting up 100+ queries and driving cadence.
+- Created multiple custom dashboards and automating different set of reports using R Markdown, HTML, Advance Excel, VBA, Metrics Job (ETL).
+- Improved processes through creation of Page 0 scorecard and Performance dashboards using virtual tables and visualizations tools using R Markdown, HTML, Advance Excel, VBA, Metrics Job (ETL), Tableau, Quick sight etc.
+- Developed and established processes for WBRs, MBRs, QBRs by working closely with Business, through automating techniques, setting up 100+ queries and driving cadence.
 
 ### **Associate to Senior Associate**
 ### Amazon
@@ -61,10 +73,10 @@ aided data decision making using MS Excel, SQL, AWS services and other data mani
 
 ## Education
 
-### **IIIT Bangalore**
-### Post Graduate Diploma in Data Science (2021- 2022)
+#### **IIIT Bangalore**
+#### - Post Graduate Diploma in Data Science (2021- 2022)
 
-### **JNTU Hyderabad**
-### BTech Computer Science (2011- 2015)
+#### **JNTU Hyderabad**
+#### - BTech Computer Science (2011- 2015)
 
 ---
